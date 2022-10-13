@@ -55,21 +55,7 @@ Here is the current list of What The Hack hackathons available in this repositor
 - [Intro To Kubernetes](/001-IntroToKubernetes/README.md)
 - [Advanced Kubernetes](/023-AdvancedKubernetes/README.md)
 - [AKS Enterprise-Grade](/039-AKSEnterpriseGrade/README.md)
-- [Azure Arc Enabled Kubernetes](/026-ArcEnabledKubernetes/readme.md)
-- [Azure Arc enabled servers](/025-ArcEnabledServers/readme.md)
-- [Infrastructure As Code: Bicep](/045-InfraAsCode-Bicep/README.md)
-- [Infrastructure As Code: ARM & DSC](/011-InfraAsCode-ARM-DSC/readme.md)
-- [Infrastructure As Code: Terraform](/012-InfraAsCode-Terraform/Student/readme.md)
-- [Infrastructure As Code: Ansible](/013-InfraAsCode-Ansible/Student/readme.md)
-- [Azure Front Door](/017-FrontDoor/README.md)
-- [Advanced Networking](/028-AdvancedNetworking/README.md)
-- [Azure Networking with Hub & Spoke](/035-HubAndSpoke/README.md)
-- [Using BGP Networking for Hybrid Connectivity](/036-BGP/README.md)
-- [Azure Virtual WAN](/041-VirtualWAN/README.md)
-- [Azure Governance](/022-AzureGovernance/README.md)
-- [Linux Fundamentals](/020-LinuxFundamentals/README.md)
-- [Azure Virtual Desktop](/037-AzureVirtualDesktop/README.md)
-- [SAP On Azure](/042-SAPOnAzure/README.md)
+
 
 ## Application Development
 - [Java on Azure App Service](/040-JavaOnAppService/README.md)
